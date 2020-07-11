@@ -3,7 +3,7 @@ spring:
     url: jdbc:mysql://localhost:3306/lagou_work_3_4?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
     username: root
     password: 123456
-ip：
+lagouwork：
   limit:
     time-lenth: 1 
     visit-times: 10
