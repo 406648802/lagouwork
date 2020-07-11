@@ -6,4 +6,4 @@ spring:
 lagouwork:
   limit:
     time-lenth: 1 
-    visit-times: 10
+    visit-times: 20
